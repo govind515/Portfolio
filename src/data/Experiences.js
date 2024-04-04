@@ -1,9 +1,7 @@
-// import anuragaffection from '../assets/anuragaffection.jpg'
 
 export const experiences = [
     {
         id: 0,
-        // img: "https://media.licdn.com/dms/image/D560BAQELN71l0Md_HQ/company-logo_200_200/0/1681992257351?e=2147483647&v=beta&t=r61sFSG4RDgfymO9V-1Y0fveF6LgZhydTo1s34ggIHc",
         role: "Full Stack Developer",
         company: "AlmaBetter",
         date: "June 2023 - May 2024",
@@ -21,7 +19,7 @@ export const experiences = [
     {
         id: 1,
         role: "Educator",
-        company: "Anurag Affection",
+        company: "Govind Parihar",
         date: "September 2018 - Present",
         desc: "As a hobby i am helping community by sharing my experience via different social media platform like Youtube, Website, LinkedIn & more.",
         skills: [
@@ -32,19 +30,5 @@ export const experiences = [
             "Listener",
         ],
     },
-    // {
-    //     id: 2,
-    //     img: "https://www.techyukti.com/wp-content/uploads/2023/06/ty-logo-png.png",
-    //     role: "Content Writer",
-    //     company: "Tech Yukti",
-    //     date: "April 2022 - July 2022",
-    //     desc: "Created & Published 15+ tech articles for Tech Yukti & managed their wordpress site.",
-    //     skills: [
-    //         "Writing",
-    //         "Wordpress",
-    //         "Bloging",
-    //         "Blogger",
-    //         "HTML",
-    //     ],
-    // }
+
 ]

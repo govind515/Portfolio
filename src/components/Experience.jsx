@@ -1,4 +1,3 @@
-// import React from 'react'
 import { experiences } from '../data/Experiences.js'
 
 const container = 'bg-gradient-to-b from-slate-950 to-slate-900 text-gray-100 py-20 px-10';
@@ -9,7 +8,6 @@ const expContainer = 'flex flex-col gap-7 md:w-2/3'
 const expWrapper =
   "bg-gray-700 flex flex-col gap-4 py-10 px-7 rounded-lg  border border-sky-800 shadow-md hover:shadow-cyan-500  hover:scale-105  hover:border-sky-500 duration-500";
 const companyWrapper = 'flex gap-3'
-// const companyImgStyle = 'rounded-xl'
 const roleNameDateWrapper = 'flex flex-col gap-1'
 const roleStyle = "text-sky-500 text-2xl font-semibold";
 const companyName = 'text-gray-300 text-lg'
