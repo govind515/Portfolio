@@ -30,7 +30,7 @@ export const projects = [
     title: "Portfolio",
     date: "January 2024 - February 2024",
     desc: "A portfolio app detailing & describing about me. Basically a resume converted into website.",
-    live: "#",
+    live: "https://portfolio-three-green-93.vercel.app/",
   },
   {
     id: 3,

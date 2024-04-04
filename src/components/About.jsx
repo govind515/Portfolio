@@ -1,4 +1,5 @@
 import anuragImage from "../images/Ai image.png";
+import Resume from "../images/resumgp.pdf"
 import { ReactTyped } from "react-typed";
 import { FaFileDownload } from "react-icons/fa";
 import { Bio } from "../data/Bio";
@@ -51,7 +52,12 @@ function About() {
         </div>
         <div> {Bio.description}</div>
         <button className={btnStyle}>
-          <a className={linkStyle} href="#" download="" target="_blank">
+          <a
+            className={linkStyle}
+            href={Resume}
+            download="resumgp.pdf"
+            
+          >
             Resume <FaFileDownload />{" "}
           </a>
         </button>
